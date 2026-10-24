@@ -1,0 +1,15 @@
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\bin\Debug\net10.0\ArrayReverse.exe
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\bin\Debug\net10.0\ArrayReverse.deps.json
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\bin\Debug\net10.0\ArrayReverse.runtimeconfig.json
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\bin\Debug\net10.0\ArrayReverse.dll
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\bin\Debug\net10.0\ArrayReverse.pdb
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\obj\Debug\net10.0\ArrayReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\obj\Debug\net10.0\ArrayReverse.AssemblyInfoInputs.cache
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\obj\Debug\net10.0\ArrayReverse.AssemblyInfo.cs
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\obj\Debug\net10.0\ArrayReverse.csproj.CoreCompileInputs.cache
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\obj\Debug\net10.0\ArrayReverse.dll
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\obj\Debug\net10.0\refint\ArrayReverse.dll
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\obj\Debug\net10.0\ArrayReverse.pdb
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\obj\Debug\net10.0\ArrayReverse.genruntimeconfig.cache
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\obj\Debug\net10.0\ref\ArrayReverse.dll
+D:\дз\не заходить!!!!\ArrayReverse\ArrayReverse\obj\Debug\net10.0\ArrayRev.4CA3030A.Up2Date
